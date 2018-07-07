@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27825.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SampleBackgroundApp", "src\SampleBackgroundApp\SampleBackgroundApp.csproj", "{92EE3C40-1F0D-4650-97D4-433724D856F1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4F1DC7A8-0296-40B1-88A6-BF8B34D38D88}"
+	ProjectSection(SolutionItems) = preProject
+		Dockerfile = Dockerfile
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92EE3C40-1F0D-4650-97D4-433724D856F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92EE3C40-1F0D-4650-97D4-433724D856F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92EE3C40-1F0D-4650-97D4-433724D856F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92EE3C40-1F0D-4650-97D4-433724D856F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21CBF7CC-C2BF-4DDF-BFBA-AAC5AE75CAC5}
+	EndGlobalSection
+EndGlobal
